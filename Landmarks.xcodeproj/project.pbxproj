@@ -15,6 +15,7 @@
 		3BA53E552B65592900B46523 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA53E542B65592900B46523 /* ListView.swift */; };
 		3BA53E572B655B3700B46523 /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA53E562B655B3700B46523 /* ListItemView.swift */; };
 		3BA53E592B655BAF00B46523 /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA53E582B655BAF00B46523 /* GalleryItemView.swift */; };
+		3BA53E5B2B655C4D00B46523 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BA53E5A2B655C4D00B46523 /* GalleryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3BA53E542B65592900B46523 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		3BA53E562B655B3700B46523 /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		3BA53E582B655BAF00B46523 /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
+		3BA53E5A2B655C4D00B46523 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				3BA53E542B65592900B46523 /* ListView.swift */,
 				3BA53E562B655B3700B46523 /* ListItemView.swift */,
 				3BA53E582B655BAF00B46523 /* GalleryItemView.swift */,
+				3BA53E5A2B655C4D00B46523 /* GalleryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BA53E5B2B655C4D00B46523 /* GalleryView.swift in Sources */,
 				3BA53E592B655BAF00B46523 /* GalleryItemView.swift in Sources */,
 				3BA53E572B655B3700B46523 /* ListItemView.swift in Sources */,
 				3BA53E552B65592900B46523 /* ListView.swift in Sources */,
